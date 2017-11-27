@@ -384,7 +384,7 @@
       <yloc>112</yloc>
     </entry>
     <entry>
-      <name>1 - Staging</name>
+      <name>1 - Staging Test xml notepadd</name>
       <description/>
       <type>JOB</type>
       <specification_method>filename</specification_method>
